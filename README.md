@@ -1,7 +1,7 @@
 # <p align="center">✨ Hi there, I'm Reshu Kushwah ✨ </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF5722&center=true&vCenter=true&width=435&lines=Machine+Learning+Enthusiast;Data+Science+Explorer;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF5722&center=true&vCenter=true&width=435&lines=Machine+Learning+Enthusiast;Data+Science+Explorer;Full+Stack+Developer;Problem+Solver" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -11,8 +11,6 @@
 ---
 
 ### 🚀 About Me
-<img align="right" width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=reshukushwah28&repo=GroceryListAdvisor&theme=radical&show_owner=true" />
-
 I am a passionate developer building production-ready **ML pipelines** and turning data into insights.
 
 * 🔭 **Current Project:** High-accuracy Obesity Prediction Models.
@@ -24,7 +22,7 @@ I am a passionate developer building production-ready **ML pipelines** and turni
 
 ### 🛠 Tech Stack & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,mysql,react,html,css,js,bootstrap,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,mysql,react,html,css,js,bootstrap,github,vscode,postman,pycharm,figma" />
 </p>
 
 <p align="left">
@@ -37,16 +35,12 @@ I am a passionate developer building production-ready **ML pipelines** and turni
 
 ### 📈 My GitHub Journey
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=reshukushwah28&theme=react-dark&area=true&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=reshukushwah28&show_icons=true&theme=neon&border_radius=10" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reshukushwah28&layout=compact&theme=neon&border_radius=10" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=reshukushwah28&show_icons=true&theme=dracula&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reshukushwah28&layout=compact&theme=dracula&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=reshukushwah28&theme=dracula&hide_border=true" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=reshukushwah28&theme=neon&border_radius=10" />
 </p>
 
 ---
@@ -60,6 +54,6 @@ I am a passionate developer building production-ready **ML pipelines** and turni
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/assets/snake.svg" alt="Snake Animation" />
+<p align="center"> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer" /> 
 </p>
