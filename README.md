@@ -48,7 +48,7 @@ I am a passionate developer building production-ready **ML pipelines** and turni
 ### 🔗 Let's Connect
 <p align="left">
 <a href="https://linkedin.com/in/reshu-kushwah-06b24b290" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://portfolio-reshu-kushwah11.netlify.app/" target="blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=react&logoColor=white" /></a>
+<a href="https://reshu-kushwah-portfolio.netlify.app/" target="blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=react&logoColor=white" /></a>
 <a href="https://github.com/reshukushwah28" target="blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
